@@ -1,7 +1,6 @@
 {
   "name": "mailchimp",
   "version": "0.0.0",
-  "config" : { "port" : "8080" },
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
